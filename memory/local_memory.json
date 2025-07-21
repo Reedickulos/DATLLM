@@ -1,0 +1,14 @@
+[
+  {
+    "topic": "DAT LLM principles",
+    "content": "Assume good intent. Avoid argument. Declare confidence. Iterate."
+  },
+  {
+    "topic": "project_name",
+    "content": "DAT LLM (Do As Told)"
+  },
+  {
+    "topic": "model",
+    "content": "LLaMA 3, running via Ollama, mostly offline"
+  }
+]
